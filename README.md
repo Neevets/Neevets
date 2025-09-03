@@ -31,7 +31,7 @@
 ## 🔧 Skills  
 
 ### 🌐 Languages  
-![Languages](https://skillicons.dev/icons?i=cpp,go,rust,ts,py,lua,powershell&perline=8)
+![Languages](https://skillicons.dev/icons?i=c,go,ts,py&perline=8)
 
 ---
 
@@ -41,7 +41,7 @@
 ---
 
 ### 💾 Databases  
-![Databases](https://skillicons.dev/icons?i=mysql,sqlite,firebase,redis&perline=8)
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&perline=8)
 
 ---
 
