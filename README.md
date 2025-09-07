@@ -11,9 +11,6 @@
   <a href="https://www.fiverr.com/neevetsio" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
   </a>
-  <a href="https://www.youtube.com/@neevetsio" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Follow%20me%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Follow me on YouTube" />
-  </a>
 </p>
 
 <hr />
