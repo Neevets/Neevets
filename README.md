@@ -20,7 +20,7 @@
 
 <hr />
 
-## 🔧 Skills
+### 🔧 Skills
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### 🔥 Frameworks & Libraries  
-![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,tensorflow,pytorch&perline=8)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,tensorflow&perline=8)
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 ### 🛠️ Tools & Utils  
-![Tools & Utils](https://skillicons.dev/icons?i=git,github,vscode,vscodium,robloxstudio,cmake,postman,heroku,vercel,cloudflare,figma,blender&perline=8)
+![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,robloxstudio,cmake,heroku,vercel,cloudflare,figma,blender&perline=8)
 
 <hr />
 
