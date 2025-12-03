@@ -1,14 +1,15 @@
 <h1 align="center" style="font-weight: bold; font-size: 2.5em;">👋 Hi, I'm Neevets</h1>
 
 <h3 align="center" style="font-size: 2.0em;">Software Developer & Graphic Designer</h3>
-<p align="center" style="text-align:center; font-size:1.2em;">
-  <a href="https://www.neevets.website" target="_blank" rel="noopener noreferrer nofollow">www.neevets.website</a>
-</p>
 
 <p align="center">
   <a href="https://www.fiverr.com/neevetsio" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
   </a>
+</p>
+
+<p align="center" style="text-align:center; font-size:1.2em;">
+  <a href="https://www.neevets.website" target="_blank" rel="noopener noreferrer nofollow">www.neevets.website</a>
 </p>
 
 <hr />
