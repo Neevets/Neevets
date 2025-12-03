@@ -2,14 +2,14 @@
 
 <h3 align="center" style="font-size: 2.0em;">Software Developer & Graphic Designer</h3>
 
-<p align="center">
+<p align="center" style="text-align:center;">
   <a href="https://www.fiverr.com/neevetsio" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
   </a>
 </p>
 
 <p align="center" style="text-align:center; font-size:1.2em;">
-  <a href="https://www.neevets.website" target="_blank" rel="noopener noreferrer nofollow">www.neevets.website</a>
+  <a href="https://www.neevets.website" target="_blank">www.neevets.website</a>
 </p>
 
 <hr />
@@ -61,12 +61,12 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/?username=neevets&show_icons=true&title_color=000000&text_color=000000&hide_border=true&count_private=true&bg_color=FFFFFF" height="150" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=neevets&show_icons=true&title_color=000000&text_color=000000&hide_border=true&count_private=true&bg_color=FFFFFF" height="200" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td align="center" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevets&layout=compact&title_color=000000&text_color=000000&hide_border=true&count_private=true&bg_color=FFFFFF" height="150" alt="GitHub Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevets&layout=compact&title_color=000000&text_color=000000&hide_border=true&count_private=true&bg_color=FFFFFF" height="200" alt="GitHub Top Languages" />
     </td>
   </tr>
 </table>
