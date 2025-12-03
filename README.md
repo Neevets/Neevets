@@ -43,7 +43,7 @@
 ---
 
 ### 🛠️ Tools & Utils  
-![Tools & Utils](https://skillicons.dev/icons?i=git,github,vscode,vscodium,robloxstudio,cmake,obsidian,postman,heroku,vercel,cloudflare,selenium,regex,stackoverflow,figma,blender&perline=8)
+![Tools & Utils](https://skillicons.dev/icons?i=git,github,vscode,vscodium,robloxstudio,cmake,postman,heroku,vercel,cloudflare,figma,blender&perline=8)
 
 <hr />
 
@@ -84,7 +84,7 @@
 
 ## 📬 Contact  
 
-- 📧 **Email**: [contact@neevets.dev](mailto:contact@neevets.dev)  
+- 📧 **Email**: [contact@neevets.dev](mailto:contact@neevets.website)  
 - 💼 **LinkedIn**: [linkedin.com/neevets](https://linkedin.com/neevets)  
 - 🐦 **Twitter**: [@neevets](https://twitter.com/neevets)  
 - 🧠 **Reddit**: [u/neevets](https://www.reddit.com/user/neevets)
