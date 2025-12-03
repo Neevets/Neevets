@@ -20,7 +20,9 @@
 
 <hr />
 
-## 🔧 Skills  
+## 🔧 Skills
+
+---
 
 ### 🌐 Languages  
 ![Languages](https://skillicons.dev/icons?i=c,go,py,ts&perline=8)
