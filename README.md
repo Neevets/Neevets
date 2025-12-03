@@ -3,11 +3,6 @@
 <h3 align="center" style="font-size: 2.0em;">Software Developer & Graphic Designer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/neevets?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/neevets?style=social" alt="GitHub Stars" />
-</p>
-
-<p align="center">
   <a href="https://www.fiverr.com/neevetsio" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
   </a>
@@ -28,17 +23,17 @@
 ## 🔧 Skills  
 
 ### 🌐 Languages  
-![Languages](https://skillicons.dev/icons?i=c,go,ts,py&perline=8)
+![Languages](https://skillicons.dev/icons?i=c,go,py,ts&perline=8)
 
 ---
 
 ### 🔥 Frameworks & Libraries  
-![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,opencv,tensorflow,pytorch&perline=8)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,tensorflow,pytorch&perline=8)
 
 ---
 
 ### 💾 Databases  
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis&perline=8)
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis&perline=8)
 
 ---
 
