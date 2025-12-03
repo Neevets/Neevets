@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold; font-size: 2.5em;">👋 Hi, I'm Neevets</h1>
 
 <h3 align="center" style="font-size: 2.0em;">Software Developer & Graphic Designer</h3>
-<p style="text-align:center; font-size:1.2em;">
+<p align="center" style="text-align:center; font-size:1.2em;">
   <a href="https://www.neevets.website" target="_blank" rel="noopener noreferrer nofollow">www.neevets.website</a>
 </p>
 
