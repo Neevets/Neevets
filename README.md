@@ -20,9 +20,7 @@
 
 <hr />
 
-### 🔧 Skills
-
----
+## 🔧 Skills
 
 ### 🌐 Languages  
 ![Languages](https://skillicons.dev/icons?i=c,go,py,ts&perline=8)
@@ -40,7 +38,7 @@
 ---
 
 ### 🛠️ Tools & Utils  
-![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,robloxstudio,cmake,heroku,vercel,cloudflare,figma,blender&perline=8)
+![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,cmake,vercel,cloudflare,figma,blender&perline=8)
 
 <hr />
 
@@ -81,7 +79,7 @@
 
 ## 📬 Contact  
 
-- 📧 **Email**: [contact@neevets.dev](mailto:contact@neevets.website)  
+- 📧 **Email**: [contact@neevets.website](mailto:contact@neevets.website)  
 - 💼 **LinkedIn**: [linkedin.com/neevets](https://linkedin.com/neevets)  
 - 🐦 **Twitter**: [@neevets](https://twitter.com/neevets)  
 - 🧠 **Reddit**: [u/neevets](https://www.reddit.com/user/neevets)
