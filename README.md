@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neevets&theme=flat&no-bg=false&margin-w=10&margin-h=10&title_color=000000&text_color=000000&bg_color=FFFFFF" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NEEVETS&theme=flat&no-bg=false&margin-w=10&margin-h=10&title_color=000000&text_color=000000&bg_color=FFFFFF" alt="GitHub Trophies" />
 </p>
 
 <hr />
