@@ -46,7 +46,7 @@
 
 <hr />
 
-## :flag_white: Discord Presence  
+## :white_flag: Discord Presence  
 
 <p align="center">
   <a href="https://discord.com/users/1366592453498507326" target="_blank" rel="noopener noreferrer nofollow">
