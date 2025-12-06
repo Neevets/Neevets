@@ -41,7 +41,7 @@
 
 ---
 
-### :tools: Tools & Utils  
+### :hammer_and_wrench: Tools & Utils  
 ![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,cmake,vercel,cloudflare,figma,blender&perline=8)
 
 <hr />
