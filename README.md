@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1366592453498507326" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://lanyard.cnrad.dev/api/1366592453498507326?borderRadius=20px&idleMessage=AFK%20%E2%80%94%20Feel%20free%20to%20drop%20a%20message&showDisplayName=true&hideDiscrim=true&theme=light" alt="Discord Presence" width="500" />
+    <img src="https://lanyard.cnrad.dev/api/1366592453498507326?borderRadius=20px&idleMessage=currently%20doing%20nothing&showDisplayName=true&hideDiscrim=true&theme=light" alt="Discord Presence" width="500" />
   </a>
 </p>
 
